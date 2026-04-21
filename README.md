@@ -1,8 +1,7 @@
 ### Hey, I'm Nevin.
 
-I build internal tools and AI-assisted workflows. 18+ years of support
-engineering experience. Currently exploring what AI unlocks for
-non-engineers who ship.
+I build internal tools and AI-assisted workflows. 18+ years in technical support
+with the recent years in support engineering work. 
 
 **What I'm working on right now:**
 - Internal tooling with Power Automate, SharePoint, and AI-assisted
