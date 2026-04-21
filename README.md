@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Nevin.
 
-<!--
-**Ephox1/Ephox1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build internal tools and AI-assisted workflows. 18+ years of support
+engineering experience. Currently exploring what AI unlocks for
+non-engineers who ship.
 
-Here are some ideas to get you started:
+**What I'm working on right now:**
+- Internal tooling with Power Automate, SharePoint, and AI-assisted
+  Adaptive Card JSON for the Executive Social Media Care team
+- Figuring out where AI dev tools fit into support engineering workflows
+- Side projects: [FeastForged](https://github.com/Ephox1/FeastForged) (Flutter + Supabase meal planning app),
+  and a gamified chore tracker for families called Knightly Deeds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My daily AI stack:** Cursor · Claude Code · GPT/Codex · Grok · Hugging Face · n8n
+
+**Self-hosted:** Docker · Ollama · OpenWebUI · OpenClaw
+
+**Reach me:** nevin@phoxden.com · [LinkedIn](https://www.linkedin.com/in/nevin-bruce-876912b3/) · [Portfolio](https://ephox1.github.io)
