@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio%20%26%20Resume-ephox1.github.io-0969da?style=for-the-badge&logo=github)](https://ephox1.github.io)
 
 **Recent projects:**
-- **[Gallery Forge](https://github.com/Ephox1/gallery-forge)** · Obsidian plugin for drag-and-drop image galleries backed by Bases. TypeScript. Ships with a user [troubleshooting guide](https://github.com/Ephox1/gallery-forge/blob/main/TROUBLESHOOTING.md) and a [debugging postmortem](https://github.com/Ephox1/gallery-forge/blob/main/docs/POSTMORTEM-base-file-silent-failure.md) for a silent failure bug.
+- **[Gallery Forge](https://github.com/Ephox1/Gallery-Forge)** · Obsidian plugin for drag-and-drop image galleries backed by Bases. TypeScript. Ships with a user [troubleshooting guide](https://github.com/Ephox1/Gallery-Forge/blob/main/TROUBLESHOOTING.md) and a [debugging postmortem](https://github.com/Ephox1/Gallery-Forge/blob/main/docs/POSTMORTEM-base-file-silent-failure.md) for a silent failure bug.
 - **[FeastForged](https://github.com/Ephox1/FeastForged)** · Flutter + Supabase meal planning app with RLS-secured data, macro tracking, and a community recipe feed.
 - **[Ember](https://github.com/Ephox1/Ember-Stretching-App)** · Dark-mode stretching app with an interactive body map, voice coach, and guided sessions. Single-file vanilla JS.
 - **Internal tooling** · Power Automate, SharePoint, and AI-assisted Adaptive Card JSON for the Executive Social Media Care team at my day job.
